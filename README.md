@@ -7,7 +7,8 @@ Simple.
 
 2) I cannot have sentimentality for family members, relatives, etc.
 3) I will use Linux, as long as it is the system with the best programmers auditing its security. 
-4) Analyse everything that has tracker in the code. 
+
+Analyse everything that has tracker in the code. 
 
 
 Here is an example of an idol of mine -> 
@@ -18,4 +19,3 @@ Here's a commit of this mental algorithm.
 
 //There is a loophole, in being a humanoid of the male species, the nature of the species seeks to breed and reproduce, so the fight will be internal. I must hack myself at every turn and create mitigations to these "zero-day exploits".
 
-I will use Linux, as long as it is the system with the best programmers auditing its security. 
